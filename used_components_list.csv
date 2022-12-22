@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"SERVO1",1,"Positional Micro Servo"
+"U2",1," IR sensor"
+"KEYPAD1",1," Keypad 4x4"
+"U3",1,"PCF8574-based, 32 LCD 16 x 2 (I2C)"
